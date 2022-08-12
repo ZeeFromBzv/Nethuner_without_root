@@ -26,6 +26,10 @@ apt upgrade
 ```
 
 ```
+apt update
+```
+
+```
 apt install wget proot tar
 ```
 
